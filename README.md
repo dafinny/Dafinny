@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dafinny1922@gmail.com | +1 (226) 988-0707
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I filed a patent for thermoelectric + solar EV charging (Patent No. 202441032680 A) and published 2 IEEE papers!
--->
