@@ -29,7 +29,6 @@ From load forecasting with ML to solar-powered EV systems, I bring analytical ri
 ![GAMS](https://img.shields.io/badge/-GAMS-512DA8?style=flat-square)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square)
 
-
 #### ⚡ Power & Electrical System Analysis
 ![Load Flow Analysis](https://img.shields.io/badge/-Load%20Flow%20Analysis-43A047?style=flat-square)
 ![Contingency Analysis](https://img.shields.io/badge/-Contingency%20Analysis-2E7D32?style=flat-square)
