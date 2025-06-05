@@ -17,12 +17,12 @@ From load forecasting with ML to solar-powered EV systems, I bring analytical ri
 
 ## What I Work With
 
-### 💻 Languages & Frameworks
+## 💻 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 
-### 🛠️ Design Software
+## 🛠️ **Design Software**
 ![ETAP](https://img.shields.io/badge/-ETAP-E53935?style=flat-square)
 ![AutoCAD Electrical](https://img.shields.io/badge/-AutoCAD%20(Electrical)-0D47A1?style=flat-square)
 ![COMSOL](https://img.shields.io/badge/-COMSOL-1976D2?style=flat-square)
