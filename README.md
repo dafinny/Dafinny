@@ -21,7 +21,6 @@ From load forecasting with ML to solar-powered EV systems, I bring analytical ri
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Machine Learning](https://img.shields.io/badge/-ML%20for%20Chip%20Design-6A1B9A?style=flat-square)
 
 ### **Design Software**
 ![ETAP](https://img.shields.io/badge/-ETAP-E53935?style=flat-square)
