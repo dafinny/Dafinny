@@ -59,9 +59,9 @@ From load forecasting with ML to solar-powered EV systems, I bring analytical ri
 
 ## Reach Me At
 
-📧 dafinny1922@gmail.com  
-📞 +1 (226) 988 0707
-🌐 [LinkedIn]([https://www.linkedin.com/in/vigneshmdm/](https://www.linkedin.com/in/dafinny-thanigaivel-298572245/)) 
+📧 [dafinny1922@gmail.com](mailto:dafinny1922@gmail.com)  
+📞 +1 (226) 988 0707  
+🌐 [LinkedIn](https://www.linkedin.com/in/dafinny-thanigaivel-298572245/)
 
 ---
 
