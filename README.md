@@ -65,4 +65,4 @@ From load forecasting with ML to solar-powered EV systems, I bring analytical ri
 
 ---
 
-_“I’m not just focused on where technology is today — I'm building toward where it needs to be tomorrow.”_ 
+_“Engineering the future means powering what matters, and protecting what connects us.”_ 
